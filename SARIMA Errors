@@ -1,0 +1,17 @@
+June 2024 (1-24):
+Model: SARIMAX (p, d, q)x(P, Q, D, M)
+Model: SARIMAX (1, 0, 0)x(1, 1, 0, 96)  MAPE:3.7574 %
+Model: SARIMAX (2, 0, 0)x(1, 1, 0, 96)  MAPE:3.6778 %
+Model: SARIMAX (2, 0, 1)x(1, 1, 0, 96)  MAPE:3.6992 %
+Model: SARIMAX (3, 0, 0)x(1, 1, 0, 96)  MAPE:3.7013 %
+Model: SARIMAX (4, 0, 0)x(1, 1, 0, 96)  MAPE:3.6919 %
+Model: SARIMAX (4, 0, 1)x(1, 1, 0, 96)  MAPE:3.6976 %
+Model: SARIMAX (2, 0, 1)x(1, 1, 1, 96)  MAPE:4.5646 %
+Model: SARIMAX (4, 0, 1)x(1, 1, 1, 96)  MAPE:4.5952 %
+Model: SARIMAX (1, 0, 0)x(2, 1, 0, 96)  MAPE:4.4835 %
+Model: SARIMAX (2, 0, 0)x(2, 1, 0, 96)  MAPE:4.4835 %
+Model: SARIMAX (2, 1, 0)x(2, 1, 0, 96)  MAPE:4.7525 %
+Model: SARIMAX (2, 2, 0)x(2, 1, 0, 96)  MAPE:63.7028 %
+
+
+
